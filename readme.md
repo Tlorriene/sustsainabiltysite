@@ -1,7 +1,7 @@
 Project brief was to create a minimum 2 HTML page and 1 CSS for a website based on sustainability.
 
-Initial concept: Tour booking system for Jungle 'Rari's the newest sustainable green tour operator in South America.   The company is the newest tour operator with their USP being that their companyis fully sustainable, from their jeeps, to their offices and accomodation.  The site will show the homepage, login for existing customers, and a booking window to place enquires.
+Initial concept: Basic booking page for local electric vehicles to rent in the area.  Site will contain reviews, information, location and prices.  There will be a booking for using HTML Forms and CSS for styling. 
 
-Page Colours; green, yellow, black, white
+Page Colours; Black, white, gold
 
-Theme; Jungle, waterfalls, picturesque scenes
+Theme; Sustainable energy, electric, cars ,rental
